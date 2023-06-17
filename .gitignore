@@ -1,6 +1,4 @@
 .DS_Store
-.firebase
-.firebaserc
 .netlify
 *.log
 dist
